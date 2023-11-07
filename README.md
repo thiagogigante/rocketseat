@@ -9,7 +9,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-opiniao">Minha Opinião</a>
 </p>
 
 <p align="center">
@@ -19,7 +20,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="./assets/capa_devlinks.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -43,10 +44,18 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
+
+## 👨‍💻 Minha Opinião
+
+Este foi meu primeiro projeto, meu nível de HTML era bem básico, apesar de estudar a teoria, nunca havia utilizado CSS, JavaScript ou ferramentas como VS Studio e GitHub. Foi um excelente pontapé inicial, sinto que a prática me trará mais confiança para codar sem depender de referências mas já me vejo capaz de identificar os elementos de uma página para estudá-los ou quem sabe replicá-los em meus projetos. Apesar de haverem muitas funções e possibilidades que ainda desconheço nessas linguagens, já consigo diferenciar bem uma da outra e entender como se completam. Valeu a pena dedicar um tempo para conhecer a métodologia da Rocketseat e recomendo fortemente pra quem está iniciando os estudos em programação.
+
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+
+[def]: /assets/capa_devlinks.jpg
